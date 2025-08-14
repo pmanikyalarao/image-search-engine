@@ -1,4 +1,4 @@
-## 📸 Image Search Engine
+# 📸 Image Search Engine
 
 A simple and responsive image search engine built with vanilla HTML, CSS, and JavaScript. This project allows users to search for images using a keyword and view the results in a clean, modern grid layout. It's a great example of a front-end application that interacts with a third-party API.
 
