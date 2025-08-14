@@ -1,4 +1,4 @@
-let accessKey = "AFJP3_g9tKs8-F_eghvPZoDsYvKvIcdczemFx7ScfXo"
+let accessKey = "YOUR_API_KEY"
 
 let searchInput = document.querySelector("#searchInput");
 let submitSearch = document.querySelector("#submitSearch");
@@ -43,4 +43,5 @@ form.addEventListener("submit",(e)=>{
 showMore.addEventListener("click",()=>{
     page++;
     search();
+
 })
