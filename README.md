@@ -38,7 +38,7 @@ This project requires a free API key from a service like **Unsplash**.
     git clone [https://github.com/pmanikyalarao/image-search-engine.git](https://github.com/pmanikyalarao/image-search-engine.git)
     ```
 2.  Open the cloned folder.
-3.  Open the `script.js` file and replace `"YOUR_API_KEY"` with your actual Unsplash API key.
+3.  Open the `index.js` file and replace `"YOUR_API_KEY"` with your actual Unsplash API key.
 4.  Open the `index.html` file in your favorite web browser.
 
 ***
